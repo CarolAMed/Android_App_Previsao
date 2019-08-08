@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">242edb7307ce3959ddf524b77f21e5c9</string>
+    <string name="web_services_url">http://api.openweathermap.org/data/2.5/forecast?q=%s&amp;APPID=%s&amp;units=metric</string>
+
+</resources>
